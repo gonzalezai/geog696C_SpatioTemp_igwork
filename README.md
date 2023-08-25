@@ -1,5 +1,7 @@
 # geog696C_SpatioTemp_igwork
-This repository will store the worked assignments for the the Spatio Temporal Data Analysis course. The repository organization will be as follows: 
+This repository will store the worked assignments for the Spatio Temporal Data Analysis (geog696c) course. 
+
+The repository organization will be as follows: 
 
 - Pre work (whenever coding is needed).
 - Homework.

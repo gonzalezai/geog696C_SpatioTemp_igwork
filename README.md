@@ -1,2 +1,10 @@
 # geog696C_SpatioTemp_igwork
-This repository will contain the pre work, assignments and the elaboration of the final project for the Spatio Temporal Data Analysis course. 
+This repository will store the worked assignments for the the Spatio Temporal Data Analysis course. The repository organization will be as follows: 
+
+- Pre work (whenever coding is needed).
+- Homework.
+- Final Project (the main component of the repository).
+
+All of the assignments will be performed using Python as the main programming language. 
+
+
